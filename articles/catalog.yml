@@ -2,16 +2,18 @@ PREDEF:
   - preface.re
 
 CHAPS:
+  # TAKASHI.SHIBATA
+  - article_0_shibata.re
   # hirohito
   - article_1_nonoyama.re
   # TAKASHI.SHIBATA
-  - article_1_shibata.re
+  #- article_1_shibata.re
   # hirohito
   - article_2_nonoyama.re
   # TAKASHI.SHIBATA
-  - article_2_shibata.re
+  #- article_2_shibata.re
   # hirohito
-  - article_3_nonoyama.re
+  #- article_3_nonoyama.re
   # TAKASHI.SHIBATA
   - article_3_shibata.re
 
