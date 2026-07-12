@@ -25,7 +25,7 @@ language: ja
 booktitle: {name: "環境差分との戦い", file-as: "かんきょうさぶんとのたたかい"}
 
 # 著者名。「, 」で区切って複数指定できる
-aut: [{name: "ひろひと", file-as: "ひろひと"}, {name: "Takashi Shibata", file-as: "しばた たかし"}]
+aut: [{name: "Hirohito Nonoyama", file-as: "ののやま ひろひと"}, {name: "Takashi Shibata", file-as: "しばた たかし"}]
 
 # 以下はオプション
 # 以下はオプション(autと同じように配列書式で複数指定可能)。
@@ -405,7 +405,7 @@ pdfmaker:
   # 仕上がりサイズ+塗り足し3mmありのPDFまたはIllustratorファイル（PDF互換オプション付き）を推奨。
   # 拡縮はされず「そのまま」貼り付けられる
   # 原寸画像を用意できないときには、「,cover_fit_page=true」をtexdocumentclassパラメータの2つめの値に追加すると、仕上がりサイズにリサイズして貼り付ける
-  coverimage: cover_day2.png
+  coverimage: cover_day3.png
   #
   # TeXコンパイル前に実行するプログラム。変換後のTeXソースを調整したいときに使用する。
   # 渡される引数1=作業用展開ディレクトリ、引数2=呼び出しを実行したディレクトリ
