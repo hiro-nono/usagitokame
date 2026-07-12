@@ -25,7 +25,7 @@ language: ja
 booktitle: {name: "環境差分との戦い", file-as: "かんきょうさぶんとのたたかい"}
 
 # 著者名。「, 」で区切って複数指定できる
-aut: [{name: "ひろひと", file-as: "ひろひと"}, {name: "Takashi Shibata", file-as: "しばた たかし"}]
+aut: [{name: "Hirohito Nonoyama", file-as: "ののやま ひろひと"}, {name: "Takashi Shibata", file-as: "しばた たかし"}]
 
 # 以下はオプション
 # 以下はオプション(autと同じように配列書式で複数指定可能)。
