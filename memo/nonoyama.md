@@ -437,3 +437,7 @@ Type 2（VirtualBox、VMware Workstationなど）：ホストOS上で動く
 
 - だ・である調にする
 - 数式をほかの章でも触りたい
+
+- OS層で管理したい=>VM
+- アプリ層で管理したい=>container
+- 構築・変更・更新の速さがvmとコンテナの接続にする
