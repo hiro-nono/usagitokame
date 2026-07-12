@@ -21,22 +21,9 @@ Hypervisorは、物理ハードウェアと仮想マシンの間で動作し、C
 Hypervisorには、大きく分けてType 1とType 2の2種類があります。
 
 1. **Type 1（ベアメタル型）**は、ハードウェアに直接インストールするタイプ。
-
-//emlist{
-    物理サーバー
-    └── Hypervisor
-        ├── Ubuntu VM
-        └── Windows VM
-//}
-
 2. **Type 2（ホスト型）**は、WindowsやmacOSなどの通常のOS（ホストOS）上で、アプリケーションとして動作するタイプ。
 
-//emlist{
-    物理サーバー
-    └── ホストOS
-        └── Hypervisor
-            ├── Ubuntu VM
-            └── Windows VM
+//image[2-2][Hypervisorの種類の比較S]{
 //}
 
 
