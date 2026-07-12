@@ -409,7 +409,9 @@ UV_MALWARE_CHECK=1 uv sync --locked
 //footnote[weave-evaluation][W&B Weave Documentation, EvaluationLogger: https://weave-docs.wandb.ai/guides/evaluation/evaluation_logger]
 //footnote[weave-traces][W&B Weave Documentation, Trace Plots: https://weave-docs.wandb.ai/guides/tracking/trace-plots/]
 
-===[column] VMからDocker、そしてuvへ
+//pagebreak
+
+===[column] 【コラム】VMからDocker、そしてuvへ
 
 AIエンジニアとして開発を続けていると、環境構築は一度で終わらない。新しいモデルやライブラリを試すたび、別のマシンへ移すたびに、環境は少しずつ変わっていく。
 
